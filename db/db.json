@@ -1,0 +1,17 @@
+{
+    "tasks" :     
+    [
+        {
+            "id": "id",
+            "nombre" : "nombre",
+            "estado": "estado",
+            "descripcion" : "descripcion",
+            "role" : "Gestor"
+
+
+
+        }
+    ]
+
+
+}
